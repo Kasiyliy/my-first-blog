@@ -25,7 +25,7 @@ SECRET_KEY = 'oz0p71(+ftxb%3d%1h&0$@2y+^ibfew#oj!i3dl4+&wmr+r00k'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'kasya.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','localhost', 'kasya.pythonanywhere.com']
 
 
 # Application definition
